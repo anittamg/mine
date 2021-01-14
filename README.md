@@ -26,4 +26,4 @@
 **Structure of arranging files**
 
  **Recommended structure for arranging files**
- ![Tux, the Linux mascot](/assets/images/tux.png)
+ ![Tux, the Linux mascot](/act.gif)
